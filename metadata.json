@@ -1,0 +1,6 @@
+{
+  "name": "Rochys Run Coach",
+  "description": "Rochys Run Coach is an AI-powered running coach that analyzes your performance data (from screenshots or manual input) to create personalized training plans for your specific race goals.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
